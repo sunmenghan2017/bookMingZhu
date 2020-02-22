@@ -4,7 +4,7 @@
   "description": "名著简介\r 这是一部由gitbook自动化构建的电子书。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
